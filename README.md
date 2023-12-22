@@ -25,7 +25,7 @@ The following questions will be answered by the following resources:
 - [Security policy](SECURITY.md)
 - [Contribution policy](CONTRIBUTING.md)
 
-## License
+## License Details
 
 zkSync Era is distributed under the terms of either
 
